@@ -34,6 +34,22 @@ Apex Circuit 3D combines a Three.js racing world with a React-powered game inter
 - **Keyboard shortcuts** for driving and in-game actions.
 - **Responsive game shell** designed around a full-window 3D canvas.
 
+## 🤖 Original AI coding prompt
+
+The following prompt was used as the starting brief for generating the arcade racing game:
+
+> Create a complete, single-file 3D arcade racing game using Three.js and HTML5 (or specify your engine like Unity/Godot). Include the following core elements:
+>
+> 1. A drivable 3D car body with responsive wheel physics, smooth acceleration (W/Up), reverse/braking (S/Down), and steering (A/D or Left/Right).
+> 2. A third-person chase camera that smoothly follows behind the car with a slight lag around corners.
+> 3. A ground plane with a clearly defined, looping racetrack (use barriers or side walls so the car doesn't fall off).
+> 4. A simple lap counter, a timer, and a start/finish line checkpoint system that validates full laps.
+> 5. Clean lighting, sky color, and basic HUD displaying current speed and lap time.
+
+**Implementation note:** This prompt is the original design brief. The current repository is organized as a React + TypeScript + Vite application, with the Three.js racing engine and game systems split across modules rather than kept in one HTML file.
+
+---
+
 ## 🕹️ Controls
 
 | Key | Action |
