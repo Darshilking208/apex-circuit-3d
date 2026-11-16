@@ -16,6 +16,19 @@ Take the wheel, accelerate through a purpose-built circuit, manage your speed th
 
 ---
 
+## 🏁 APEX Racing Series — Version History
+
+**Apex Circuit 3D is Version 1 (V1) of the APEX racing series.** It is the original browser-based 3D arcade circuit racing project.
+
+| Version | Game | Description | Links |
+|---|---|---|---|
+| **V1** | **Apex Circuit 3D** | Original 3D circuit racing game | [Play V1](https://apex-circuit-3d.darshillprajapati97.workers.dev) · [GitHub](https://github.com/Darshilking208/apex-circuit-3d) |
+| **V2** | **APEX VELOCITY** | Successor project in the APEX racing series | [Play V2](https://apex-velocity-3d.darshillprajapati97.workers.dev) · [GitHub](https://github.com/Darshilking208/apex-velocity-3d) |
+
+V1 and V2 are separate projects with their own source code and deployments. **APEX VELOCITY is the second version in the series; it does not replace the Apex Circuit V1 repository.**
+
+---
+
 ## 🎮 Game overview
 
 Apex Circuit 3D combines a Three.js racing world with a React-powered game interface. The game includes a title screen, an active race HUD, pause and game-over screens, a player-controlled car, a chase camera, track boundaries, and lap timing.
@@ -245,7 +258,7 @@ Ideas for future development (not claims about features already implemented):
 - Improved mobile and touch controls.
 - Race difficulty and gameplay settings.
 - More detailed race statistics and personal bests.
-- Optional deployment workflow and hosted game link.
+- Additional deployment and release automation improvements.
 
 ## 🤝 Contributing
 
@@ -269,7 +282,8 @@ No license file is currently included in this repository. Unless a license is ad
 **Darshil K Prajapati**
 
 - GitHub: [@Darshilking208](https://github.com/Darshilking208)
-- Project: [Apex Circuit 3D](https://github.com/Darshilking208/apex-circuit-3d)
+- Project: [Apex Circuit 3D — V1](https://github.com/Darshilking208/apex-circuit-3d)
+- Next version: [APEX VELOCITY — V2](https://github.com/Darshilking208/apex-velocity-3d)
 
 ---
 
