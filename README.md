@@ -1,6 +1,14 @@
 # 🏁 Apex Circuit 3D
 
-**A browser-based 3D arcade circuit racing game built with React, TypeScript, Three.js, and Vite.**
+<p align="center">
+  <a href="https://apex-circuit-3d.darshillprajapati97.workers.dev"><strong>🌐 PLAY THE LIVE GAME</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Darshilking208/apex-circuit-3d"><strong>📦 SOURCE CODE</strong></a>
+</p>
+
+<p align="center">
+  <strong>A browser-based 3D arcade circuit racing game built with React, TypeScript, Three.js, and Vite.</strong>
+</p>
 
 Take the wheel, accelerate through a purpose-built circuit, manage your speed through corners, and complete the race while tracking your lap performance.
 
